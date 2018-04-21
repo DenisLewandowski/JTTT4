@@ -7,3 +7,7 @@ Funkcjonalności:
 - Zapisywanie i odczytywanie informacji o wykonywanych zadaniach do bazy danych
 - Plik .log
 - Serializacja danych do i z pliku XML
+
+Wykorzystano:
+- json.Net
+- Entity Framework
